@@ -1,0 +1,22 @@
+{
+  "name": "collapsible-content-blocks",
+  "description": "",
+  "main": "DOM.js",
+  "authors": [
+    "Theuy Limpanont <theuy.limpanont@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "underscore": "~1.8.3"
+  }
+}

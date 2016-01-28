@@ -1,0 +1,19 @@
+{
+  "name": "collapsible-content-blocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DOM.js",
+  "scripts": {
+    "preinstall": "npm install -g bower@latest",
+    "prestart": "npm install && bower install",
+    "start": "node index.js"
+  },
+  "author": "Theuy Limpanont",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "bower": "^1.7.2"
+  }
+}

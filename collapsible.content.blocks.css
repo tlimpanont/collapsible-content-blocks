@@ -1,0 +1,23 @@
+
+.detail-col {
+  transition: max-height .2s linear;
+}
+
+.detail-col:not(:nth-child(-n+3)){
+  overflow: hidden;
+  visibility: hidden;
+}
+
+.detail-col.collapsed {
+  max-height: 0px;
+  visibility: hidden;
+}
+
+.collapsible-button .icon {
+  transition: transform 1s ease-out;
+  transform: rotateX(180deg);
+}
+
+.collapsible-button.collapsed .icon  {
+  transform: rotateX(0deg);
+}
