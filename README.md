@@ -1,4 +1,4 @@
-[![Heroku](http://heroku-badge.herokuapp.com/?app=collapsible-content-blocks&style=flat&svg=1)]
+[![Heroku](https://heroku-badge.herokuapp.com/?app=collapsible-content-blocks)]
 
 # collapsible-content-blocks
 Make your responsive content blocks collapsible
